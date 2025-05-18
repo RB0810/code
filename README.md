@@ -1,6 +1,6 @@
 # Real-Time Water Treatment Monitoring Dashboard
 
-Video Walkthrough: https://youtu.be/Eizr5SLf2TE
+Video Walkthrough: https://youtu.be/BHeXqWabSdI
 
 ## Setup Instructions
 
