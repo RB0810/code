@@ -120,14 +120,14 @@ const ChemicalChart: React.FC<Props> = ({ data }) => {
                 </div>
             )}
 
-            {visibleLines.includes('chlorine') && (
+            {visibleLines.includes('alum') && (
                 <div className="flex items-center gap-2">
                     <div className="w-4 h-1 bg-pink-500" />
                     <span className="text-pink-600">alum</span>
                 </div>
             )}
             
-            {visibleLines.includes('alum') && (
+            {visibleLines.includes('chlorine') && (
                 <div className="flex items-center gap-2">
                     <div className="w-4 h-1 bg-purple-600" />
                     <span className="text-purple-600">chlorine</span>
